@@ -4,6 +4,8 @@
 
 New colorful virtual signals for your circuitry needs. Drop-in replacement for Virtual Signals 2 for 2.1, but supports 2.0 too.
 
+The Font Awesome signals are disabled by default because of an upcoming bigger Awesome Signals mod, but can be enabled in the mod startup settings.
+
 ## Credits
 
 Fork of the original [Virtual Signals 2](https://mods.factorio.com/mod/virtual-signals-2) by [fe3dback](https://mods.factorio.com/user/fe3dback).

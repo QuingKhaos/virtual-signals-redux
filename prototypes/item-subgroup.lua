@@ -31,14 +31,19 @@ data:extend {
   },
   {
     type = "item-subgroup",
-    name = "virtual-signal-vs2-fa",
-    group = "signals",
-    order = "a-vs2[30]"
-  },
-  {
-    type = "item-subgroup",
     name = "virtual-signal-vs2-cmn-digits",
     group = "signals",
     order = "a-vs2[50]"
   },
 }
+
+if settings.startup["virtual-signals-redux-enable-fa"] then
+  data:extend {
+    {
+      type = "item-subgroup",
+      name = "virtual-signal-vs2-fa",
+      group = "signals",
+      order = "a-vs2[30]"
+    },
+  }
+end

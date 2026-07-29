@@ -722,293 +722,6 @@ data:extend {
   },
   {
     type = "virtual-signal",
-    name = "signal-vs2-stack",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_stack.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[000]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-gear",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_gear.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[001]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-load",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_load.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[002]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-unload",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_unload.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[003]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-train",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_train.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[004]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-ship",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_ship.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[005]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-rocket",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_rocket.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[006]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-bell_on",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_bell_on.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[007]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-bell_off",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_bell_off.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[008]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-question",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_question.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[009]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-exclamation",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_exclamation.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[010]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-plug",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_plug.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[011]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-puzzle",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_puzzle.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[012]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-left",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_left.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[013]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-right",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_right.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[014]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-up",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_up.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[015]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-down",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_down.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[016]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-location",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_location.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[017]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-power_exc",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_power_exc.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[018]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-power_ok",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_power_ok.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[019]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-power_bolt",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_power_bolt.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[020]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-wireless",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_wireless.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[021]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-signal",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_signal.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[022]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-broadcast",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_broadcast.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[023]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-satellite",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_satellite.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[024]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-satellite2",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_satellite2.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[025]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-micro",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_micro.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[026]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-env_bolt",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_env_bolt.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[027]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-env_fire",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_env_fire.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[028]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-env_cold",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_env_cold.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[029]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-env_sun",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_env_sun.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[030]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-env_water",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_env_water.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[031]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-env_leaf",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_env_leaf.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[032]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-env_wind",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_env_wind.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[033]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-env_explosion",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_env_explosion.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[034]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-env_atom",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_env_atom.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[035]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-env_solar",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_env_solar.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[036]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-env_tree",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_env_tree.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[037]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-science",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_science.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[038]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-biters",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_biters.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[039]"
-  },
-  {
-    type = "virtual-signal",
-    name = "signal-vs2-wrigglers",
-    icon = "__virtual-signals-redux__/graphics/signal/fa_wrigglers.png",
-    subgroup = "virtual-signal-vs2-fa",
-    order = "b[fa]-[040]"
-  },
-  {
-    type = "virtual-signal",
     name = "signal-vs2-led0",
     icon = "__virtual-signals-redux__/graphics/signal/cmn_digits_led0.png",
     subgroup = "virtual-signal-vs2-cmn-digits",
@@ -1148,3 +861,295 @@ data:extend {
     order = "b[cmn-digits]-[019]"
   },
 }
+
+if settings.startup["virtual-signals-redux-enable-fa"].value then
+  data:extend {
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-stack",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_stack.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[000]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-gear",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_gear.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[001]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-load",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_load.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[002]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-unload",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_unload.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[003]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-train",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_train.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[004]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-ship",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_ship.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[005]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-rocket",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_rocket.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[006]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-bell_on",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_bell_on.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[007]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-bell_off",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_bell_off.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[008]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-question",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_question.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[009]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-exclamation",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_exclamation.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[010]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-plug",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_plug.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[011]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-puzzle",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_puzzle.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[012]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-left",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_left.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[013]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-right",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_right.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[014]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-up",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_up.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[015]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-down",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_down.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[016]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-location",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_location.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[017]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-power_exc",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_power_exc.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[018]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-power_ok",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_power_ok.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[019]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-power_bolt",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_power_bolt.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[020]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-wireless",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_wireless.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[021]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-signal",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_signal.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[022]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-broadcast",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_broadcast.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[023]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-satellite",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_satellite.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[024]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-satellite2",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_satellite2.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[025]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-micro",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_micro.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[026]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-env_bolt",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_env_bolt.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[027]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-env_fire",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_env_fire.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[028]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-env_cold",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_env_cold.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[029]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-env_sun",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_env_sun.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[030]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-env_water",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_env_water.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[031]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-env_leaf",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_env_leaf.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[032]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-env_wind",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_env_wind.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[033]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-env_explosion",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_env_explosion.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[034]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-env_atom",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_env_atom.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[035]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-env_solar",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_env_solar.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[036]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-env_tree",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_env_tree.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[037]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-science",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_science.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[038]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-biters",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_biters.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[039]"
+    },
+    {
+      type = "virtual-signal",
+      name = "signal-vs2-wrigglers",
+      icon = "__virtual-signals-redux__/graphics/signal/fa_wrigglers.png",
+      subgroup = "virtual-signal-vs2-fa",
+      order = "b[fa]-[040]"
+    },
+  }
+end
