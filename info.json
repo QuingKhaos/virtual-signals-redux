@@ -1,7 +1,7 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESC###",
+  "name": "virtual-signals-redux",
+  "title": "Virtual Signals Redux",
+  "description": "New colorful virtual signals for your circuitry needs. Drop-in replacement for Virtual Signals 2 for 2.1, but supports 2.0 too.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
   "version": "1.0.0",

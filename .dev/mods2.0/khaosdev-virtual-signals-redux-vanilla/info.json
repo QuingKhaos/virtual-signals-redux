@@ -1,6 +1,6 @@
 {
-  "name": "khaosdev-###NAME###-vanilla",
-  "title": "// DEV // ###TITLE### // Vanilla //",
+  "name": "khaosdev-virtual-signals-redux-vanilla",
+  "title": "// DEV // Virtual Signals Redux // Vanilla //",
   "description": "",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
@@ -24,6 +24,6 @@
     "khaostransportgroup",
     "science-tab",
 
-    "###NAME###"
+    "virtual-signals-redux"
   ]
 }

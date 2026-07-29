@@ -1,15 +1,16 @@
 {
-  "name": "khaosdev-###NAME###-space-age",
-  "title": "// DEV // ###TITLE### // Space Age //",
+  "name": "khaosdev-virtual-signals-redux-space-age",
+  "title": "// DEV // Virtual Signals Redux // Space Age //",
   "description": "",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
   "version": "0.0.0",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "dependencies": [
     "base",
     "elevated-rails",
     "quality",
+    "recycler",
     "space-age",
 
     "khaosdev",
@@ -20,13 +21,13 @@
     "barreling-group2",
     "khaosammogroup",
     "khaosbioprocessinggroup",
-    "khaoscastinggroup",
+    "? khaoscastinggroup",
     "khaoscircuitrygroup",
     "khaosmodulesgroup",
     "khaostransportgroup",
     "science-tab",
 
-    "###NAME###"
+    "virtual-signals-redux"
   ],
-  "space_travel_required": true
+  "expansion_required": true
 }

@@ -1,8 +1,8 @@
 mod_info:
   title: |
-    ###TITLE###
+    Virtual Signals Redux
   summary: |
-    ###DESC###
+    New colorful virtual signals for your circuitry needs. Drop-in replacement for Virtual Signals 2 for 2.1, but supports 2.0 too.
   description_file: README.md
   attach_source_link: true
   license: default_gnugplv3
