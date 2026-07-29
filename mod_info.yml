@@ -6,5 +6,6 @@ mod_info:
   description_file: README.md
   attach_source_link: true
   license: default_gnugplv3
-  category: internal
-  tags: []
+  category: utilities
+  tags:
+    - circuit-network

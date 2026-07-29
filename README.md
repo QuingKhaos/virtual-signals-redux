@@ -8,4 +8,4 @@ The Font Awesome signals are disabled by default because of an upcoming bigger A
 
 ## Credits
 
-Fork of the original [Virtual Signals 2](https://mods.factorio.com/mod/virtual-signals-2) by [fe3dback](https://mods.factorio.com/user/fe3dback).
+Fork of the original [Virtual Signals 2](https://mods.factorio.com/mod/virtual-signals2) by [fe3dback](https://mods.factorio.com/user/fe3dback).
